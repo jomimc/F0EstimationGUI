@@ -1,0 +1,8 @@
+crepe
+librosa
+matplotlib
+numpy
+pydub
+scipy
+simpleaudio
+vamp
